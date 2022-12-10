@@ -1,4 +1,5 @@
 cmake_minimum_required(VERSION 3.2)
+project(sqlite_protobuf LANGUAGES CXX)
 
 # Search for modules in the cmake/ directory
 set(CMAKE_MODULE_PATH
